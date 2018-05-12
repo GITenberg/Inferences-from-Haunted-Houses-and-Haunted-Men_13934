@@ -1,0 +1,27 @@
+_repo: Inferences-from-Haunted-Houses-and-Haunted-Men_13934
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harris, J. W. (John William)
+    alias: Harris, John William
+    birthdate: 1849
+    gutenberg_agent_id: '5295'
+    url: http://www.gutenberg.org/2009/agents/5295
+description: ''
+gutenberg_issued: '2004-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghosts'
+- !lcc 'BF'
+- !lcsh 'Hypnotism'
+title: Inferences from Haunted Houses and Haunted Men
+url: http://www.gutenberg.org/ebooks/13934
